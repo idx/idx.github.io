@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzok_pages=self.webpackChunkzok_pages||[]).push([[485],{3418:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/zok/blog/tags/facebook","allTagsPath":"/zok/blog/tags","count":1}')}}]);
