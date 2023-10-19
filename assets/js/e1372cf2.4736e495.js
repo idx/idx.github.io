@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzok_pages=self.webpackChunkzok_pages||[]).push([[1167],{7224:e=>{e.exports=JSON.parse('{"permalink":"/zok/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

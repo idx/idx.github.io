@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzok_pages=self.webpackChunkzok_pages||[]).push([[4345],{8180:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/zok/blog/tags/hola","allTagsPath":"/zok/blog/tags","count":1}')}}]);
